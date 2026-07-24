@@ -2,6 +2,6 @@
 - TailwindCSS 
 - React JS
 
-### Live URL: [Animated Sidebar](https://animated-tailwind-sidebar.netlify.app/)
+### Live URL: [Animated Sidebar](https://animated-tailwind-sidebar.github.io/)
 
 
