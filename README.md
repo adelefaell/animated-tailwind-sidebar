@@ -2,6 +2,6 @@
 - TailwindCSS 
 - React JS
 
-### Live URL: [Animated Sidebar](https://animated-tailwind-sidebar.github.io/)
+### Live URL: [Animated Sidebar](https://adelefaell.github.io/animated-tailwind-sidebar/)
 
 

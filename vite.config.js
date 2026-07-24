@@ -5,7 +5,7 @@ import path from 'path'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/animated-tailwind-sidebar.github.io/',
+  base: '/animated-tailwind-sidebar/',
   plugins: [react()],
   resolve: {
     alias: {
